@@ -1,0 +1,186 @@
+__________________________________________________________________________
+
+Sat Jun 25 00:58:50 NOVT 2016
+
+Free Memory: 6702 kB
+Total Memory: 22580 kB
+
+java.class.path:
+    C:\Users\ִלטענטי\AppData\Local\Temp\I1466790864\InstallerData\IAClasses.zip
+    C:\Users\ִלטענטי\AppData\Local\Temp\I1466790864\InstallerData\Execute.zip
+    C:\Users\ִלטענטי\AppData\Local\Temp\I1466790864\Windows\InstallerData\Execute.zip
+    C:\Users\ִלטענטי\AppData\Local\Temp\I1466790864\InstallerData\Resource1.zip
+    C:\Users\ִלטענטי\AppData\Local\Temp\I1466790864\Windows\InstallerData\Resource1.zip
+    C:\Users\ִלטענטי\AppData\Local\Temp\I1466790864\InstallerData
+    C:\Users\ִלטענטי\AppData\Local\Temp\I1466790864\Windows\InstallerData
+
+ZGUtil.CLASS_PATH:
+    C:\Users\ִלטענטי\AppData\Local\Temp\I1466790864\InstallerData\IAClasses.zip
+    C:\Users\ִלטענטי\AppData\Local\Temp\I1466790864\InstallerData\Execute.zip
+    C:\Users\ִלטענטי\AppData\Local\Temp\I1466790864\InstallerData
+
+sun.boot.class.path:
+    C:\Users\ִלטענטי\AppData\Local\Temp\I1466790864\Windows\resource\jre\lib\resources.jar
+    C:\Users\ִלטענטי\AppData\Local\Temp\I1466790864\Windows\resource\jre\lib\rt.jar
+    C:\Users\ִלטענטי\AppData\Local\Temp\I1466790864\Windows\resource\jre\lib\sunrsasign.jar
+    C:\Users\ִלטענטי\AppData\Local\Temp\I1466790864\Windows\resource\jre\lib\jsse.jar
+    C:\Users\ִלטענטי\AppData\Local\Temp\I1466790864\Windows\resource\jre\lib\jce.jar
+    C:\Users\ִלטענטי\AppData\Local\Temp\I1466790864\Windows\resource\jre\lib\charsets.jar
+    C:\Users\ִלטענטי\AppData\Local\Temp\I1466790864\Windows\resource\jre\lib\modules\jdk.boot.jar
+    C:\Users\ִלטענטי\AppData\Local\Temp\I1466790864\Windows\resource\jre\classes
+
+java.ext.dirs:
+    C:\Users\ִלטענטי\AppData\Local\Temp\I1466790864\Windows\resource\jre\lib\ext
+    C:\WINDOWS\Sun\Java\lib\ext
+
+java.version                  == 1.6.0_38 (Java 1)
+java.vm.name                  == Java HotSpot(TM) Client VM
+java.vm.vendor                == Sun Microsystems Inc.
+java.vm.version               == 20.13-b02
+java.vm.specification.name    == Java Virtual Machine Specification
+java.vm.specification.vendor  == Sun Microsystems Inc.
+java.vm.specification.version == 1.0
+java.specification.name       == Java Platform API Specification
+java.specification.vendor     == Sun Microsystems Inc.
+java.specification.version    == 1.6
+java.vendor                   == Sun Microsystems Inc.
+java.vendor.url               == http://java.sun.com/
+java.class.version            == 50.0
+java.compiler                 == null
+java.home                     == C:\Users\ִלטענטי\AppData\Local\Temp\I1466790864\Windows\resource\jre
+java.io.tmpdir                == C:\Users\AACE~1\AppData\Local\Temp\
+os.name                       == Windows 8
+os.arch                       == x86
+os.version                    == 6.2
+path.separator                == ;
+file.separator                == \
+file.encoding                 == Cp1251
+user.name                     == ִלטענטי
+user.home                     == C:\Users\ִלטענטי
+user.dir                      == C:\Users\ִלטענטי\AppData\Local\Temp\I1466790864\Windows
+user.language                 == ru
+user.region                   == null
+__________________________________________________________________________
+
+Installed Feature(s) Maple, Watcom of Maple 17
+
+Install Begin: JUNE 25, 2016 12:57:47 AM NOVT
+Install End: JUNE 25, 2016 12:58:42 AM NOVT
+
+Installed by InstallAnywhere 14.0 Enterprise with Cloud Pack Build 4349
+
+INSTALLATION WAS CANCELLED BY USER DURING PRE-INSTALLATION
+
+User Interactions
+-----------------
+
+
+#Choose Install Folder
+#---------------------
+USER_INSTALL_DIR=E:\\progi\\Maple17
+
+#Choose Install Set
+#------------------
+CHOSEN_FEATURE_LIST=Maple
+CHOSEN_INSTALL_FEATURE_LIST=Maple
+CHOSEN_INSTALL_SET=Minimal
+
+#Install Desktop Shortcuts
+#-------------------------
+DESKTOP_SHORTCUTS=\"Yes\",\"\"
+DESKTOP_SHORTCUTS_1=Yes
+DESKTOP_SHORTCUTS_2=
+DESKTOP_SHORTCUTS_BOOLEAN_1=1
+DESKTOP_SHORTCUTS_BOOLEAN_2=0
+
+Summary
+-------
+
+Installation:  Cancelled during pre-install.
+
+23 Successes
+0 Warnings
+0 NonFatalErrors
+0 FatalErrors
+
+Action Notes:
+
+None
+
+Install Log Detail:
+
+Check Disk Space:         C:\Program Files\Maple 17
+                          Status: SUCCESSFUL
+                          Additional Notes: NOTE - Required Disk Space: 2 014 246 726; Free Disk Space: 10 499 518 464
+
+Get Registry Entry:       Key: HKEY_LOCAL_MACHINE\SOFTWARE\Waterloo Maple\Maple 17
+                          Value Name: PATH
+                          Status: SUCCESSFUL
+
+Get Registry Entry:       Key: HKEY_LOCAL_MACHINE\SOFTWARE\Waterloo Maple\Maple 17
+                          Value Name: PATH_2
+                          Status: SUCCESSFUL
+
+Get Registry Entry:       Key: HKEY_LOCAL_MACHINE\SOFTWARE\Waterloo Maple\Maple 17
+                          Value Name: PATH_3
+                          Status: SUCCESSFUL
+
+Get Registry Entry:       Key: HKEY_LOCAL_MACHINE\SOFTWARE\Waterloo Maple\Maple 17
+                          Value Name: PATH_4
+                          Status: SUCCESSFUL
+
+Get Registry Entry:       Key: HKEY_LOCAL_MACHINE\SOFTWARE\Waterloo Maple\Maple 17
+                          Value Name: PATH_5
+                          Status: SUCCESSFUL
+
+Get Registry Entry:       Key: HKEY_LOCAL_MACHINE\SOFTWARE\Waterloo Maple\Maple 17
+                          Value Name: PATH_6
+                          Status: SUCCESSFUL
+
+Get Registry Entry:       Key: HKEY_LOCAL_MACHINE\SOFTWARE\Waterloo Maple\Maple 17
+                          Value Name: PATH_7
+                          Status: SUCCESSFUL
+
+Get Registry Entry:       Key: HKEY_LOCAL_MACHINE\SOFTWARE\Waterloo Maple\Maple 17
+                          Value Name: PATH_8
+                          Status: SUCCESSFUL
+
+Get Registry Entry:       Key: HKEY_LOCAL_MACHINE\SOFTWARE\Waterloo Maple\Maple 17
+                          Value Name: PATH_9
+                          Status: SUCCESSFUL
+
+Get Registry Entry:       Key: HKEY_LOCAL_MACHINE\SOFTWARE\Waterloo Maple\Maple 17
+                          Value Name: PATH_10
+                          Status: SUCCESSFUL
+
+Custom Action:            com.Maplesoft.ia.Installer.determineMapleParameters
+                          Status: SUCCESSFUL
+
+Check Disk Space:         E:\progi\Maple17
+                          Status: SUCCESSFUL
+                          Additional Notes: NOTE - Required Disk Space: 2 014 246 726; Free Disk Space: 748 603 781 120
+
+Custom Action:            com.Maplesoft.ia.Installer.determineMapleParameters
+                          Status: SUCCESSFUL
+
+Custom Action:            com.Maplesoft.ia.Installer.determineMapleLocations
+                          Status: SUCCESSFUL
+
+Check Disk Space:         E:\progi\Maple17
+                          Status: SUCCESSFUL
+                          Additional Notes: NOTE - Required Disk Space: 1 991 489 247; Free Disk Space: 748 603 781 120
+
+Get Registry Entry:       Key: HKEY_CLASSES_ROOT\.mws
+                          Value Name: 
+                          Status: SUCCESSFUL
+
+
+
+
+
+Get Registry Entry:       Key: HKEY_LOCAL_MACHINE\SOFTWARE\MathWorks\MATLAB
+                          Value Name: 
+                          Status: SUCCESSFUL
+
+
+INSTALLATION WAS CANCELLED BY USER DURING PRE-INSTALLATION
